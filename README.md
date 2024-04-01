@@ -20,13 +20,7 @@ Frontend разработчик
 ### Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/katekoshka" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a><a href="https://www.instagram.com/ko_tenka?igsh=MzRlODBiNWFlZA==" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="instagramm" />
-    </a><a href="https://www.linkedin.com/in/ekaterina-kotelnikova-551a97270/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="40" height="40" alt="instagramm" />
-    </a>
+    <a href="https://t.me/katekoshka" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a> <a href="https://www.instagram.com/ko_tenka?igsh=MzRlODBiNWFlZA==" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="instagramm" /></a> <a href="https://www.linkedin.com/in/ekaterina-kotelnikova-551a97270/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="40" height="40" alt="instagramm" /></a>
   </div>
 
 ### 💻 Codewars:
